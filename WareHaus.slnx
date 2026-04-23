@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WareHaus.Api/WareHaus.Api.csproj" />
+  <Project Path="WareHaus.Tests/WareHaus.Tests.csproj" />
+</Solution>
